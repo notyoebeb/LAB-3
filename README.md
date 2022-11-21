@@ -1,6 +1,6 @@
 # LAB-3
 
-//PAJORA JOHN CARLO S.
+///PAJORA JOHN CARLO S.
 //CpE 3101
 class Main {  
   
