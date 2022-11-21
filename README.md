@@ -2,6 +2,7 @@
 
 ///PAJORA JOHN CARLO S.
 //CpE 3101
+
 class Main {  
   
 int getMax(int[] a, int n) {  
